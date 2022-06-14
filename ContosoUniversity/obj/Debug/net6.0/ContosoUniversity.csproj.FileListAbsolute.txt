@@ -526,3 +526,8 @@ D:\IndvPrj\EFCORE\efcore_university\ContosoUniversity\obj\Debug\net6.0\refint\Co
 D:\IndvPrj\EFCORE\efcore_university\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.pdb
 D:\IndvPrj\EFCORE\efcore_university\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.genruntimeconfig.cache
 D:\IndvPrj\EFCORE\efcore_university\ContosoUniversity\obj\Debug\net6.0\ref\ContosoUniversity.dll
+D:\IndvPrj\EFCORE\efcore_university\ContosoUniversity\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IndvPrj\EFCORE\efcore_university\ContosoUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IndvPrj\EFCORE\efcore_university\ContosoUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IndvPrj\EFCORE\efcore_university\ContosoUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IndvPrj\EFCORE\efcore_university\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cs
